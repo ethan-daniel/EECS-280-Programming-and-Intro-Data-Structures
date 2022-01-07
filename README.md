@@ -1,5 +1,6 @@
 # eecs280
 List of Used Resources:
+
 Classwork, Textbook, and Lectures: https://runestone.academy/ns/books/published/eecs280umich/index.html
 Notes: https://eecs280staff.github.io/notes/
 
