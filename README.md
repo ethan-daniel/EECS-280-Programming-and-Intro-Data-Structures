@@ -1,5 +1,6 @@
 # eecs280
 This repository is not associated with official enrollment or attendance at the University of Michigan.
+
 It contains all of my self learning materials for EECS280 Fall 2021 from the University of Michigan.
 This course has served as a foundation in my understanding of computer science concepts such as abstraction, inheritance, polymorphism, and encapsulation. 
 Furthermore, I was able to really dive into the features in the C++ language by learning to use operator overloading, templates, iterators, "The Big Three", and more. This is a remarkably well put together course, and I want to thank Professor James Juett for his easy to follow lectures on these topics!
